@@ -28,10 +28,27 @@ body {
 
 .box-top {
     width: 95vw;
-    height: 35vh;
+    height: 55vh;
     background-color: var(--padrao);
     border-radius: 0px 0px 35px 35px;
     margin-bottom: 10px;
+    box-shadow: 5px 5px 5px #0d6dfdb3;
+}
+
+.img-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid rgb(189, 187, 187);
+    border-radius: 50%;
+}
+
+
+section, img {
+    margin: auto;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
 }
 
 .about {
@@ -58,6 +75,7 @@ main {
     border-radius: 10px;
     color: white;
     font-family: var(--corpo);
+    box-shadow: 5px 5px 5px #0d6dfdb3;
 }
 
 a {
