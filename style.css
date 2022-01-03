@@ -28,7 +28,7 @@ body {
 
 .box-top {
     width: 95vw;
-    height: 55vh;
+    height: 35vh;
     background-color: var(--padrao);
     border-radius: 0px 0px 35px 35px;
     margin-bottom: 10px;
