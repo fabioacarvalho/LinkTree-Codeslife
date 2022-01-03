@@ -32,7 +32,7 @@ body {
     background-color: var(--padrao);
     border-radius: 0px 0px 35px 35px;
     margin-bottom: 10px;
-    box-shadow: 5px 5px 5px #0d6dfdb3;
+    box-shadow: 0px 5px 5px #0d6dfdb3;
 }
 
 .img-logo {
