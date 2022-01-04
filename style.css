@@ -34,7 +34,7 @@ body {
 
 .box-top {
     width: 95vw;
-    height: 35vh;
+    height: 45vh;
     background-color: var(--padrao);
     border-radius: 0px 0px 35px 35px;
     margin-bottom: 10px;
@@ -82,6 +82,7 @@ main {
     color: white;
     font-family: var(--corpo);
     box-shadow: 5px 5px 5px #0d6dfdb3;
+    text-align: center;
 }
 
 a {
